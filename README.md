@@ -1,4 +1,4 @@
-# NOT MAINTAINED
+# NOT MAINTAIN
 
 This project is no longer maintained by the author. 
 
